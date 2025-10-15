@@ -1,16 +1,33 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wangpuyu1026mm](https://img.shields.io/badge/wangpuyu1026mm-github-blue?logo=github)](https://github.com/wangpuyu1026mm)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+ wang.puyu@cs.rptu.de
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. in Statistics
+ • School of Mathematics, Northwest University, Xi’an, China                 Sep 2017–Jun 2021
+ • Supervisor: Prof. Dr. Hai Zhang
+ • Thesis Topic: Machine Learning Algorithms with Differential Privacy
+ Visiting Student in Applied Mathematics                                     Nov 2019–Nov 2020
+ • Department of Mathematics and Statistics, SUNY Albany, NY, USA
+ • Supervisor: Prof. Dr. Yiming Ying
+ M.S. in Statistics
+ • School of Mathematics, Northwest University, Xi’an, China                 Sep 2014–Jun 2017
+ • Supervisor: Prof. Dr. Hai Zhang
+ • Thesis Topic: Distributed Non-Convex Regularization Methods
+ B.S. in Statistics and Mathematics of Finance                               Sep 2010–Jun 2014
+ • School of Mathematics, Northwest University, Xi’an, China
+
+
+
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+My research interests lie in statistical learning theory and machine learning, with an emphasis
+ on deep learning theory, optimization, and differential privacy. I am particularly interested
+ in both the theoretical foundations and practical applications of modern machine learning,
+ especially in the development and analysis of machine learning algorithms.
 
