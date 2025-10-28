@@ -109,3 +109,7 @@ section .main-body{
     }
 }
 
+/* global font scaling */
+html {
+    font-size: 14px;
+}
