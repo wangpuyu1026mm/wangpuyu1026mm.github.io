@@ -96,7 +96,7 @@ section .main-body{
 #avatar {
     position: relative;
     height: 0;
-    top: -80px;              /* 原来 top 是动态的，这里直接固定稍微上移一点 */
+    top: -50px;              /* 原来 top 是动态的，这里直接固定稍微上移一点 */
     right: -40px;            /* 往右移 40px，可按需要微调：20–60 都行 */
     max-width: 55em;
     margin: 0;
