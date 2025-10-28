@@ -113,3 +113,18 @@ section .main-body{
 html {
     font-size: 14px;
 }
+
+/* widen the main content blocks on desktop */
+@media (min-width: 992px) {
+    /* 让每个 section 里的内容块更宽 */
+    .container.px-5 {
+        max-width: 1400px;   /* 默认大概 1140/1320，我们放大一点 */
+        padding-left: 2rem;  /* 原来 px-5 是左右3rem，这里收一点 */
+        padding-right: 2rem;
+    }
+
+    /* 正文文字容器也放宽，不要小列 */
+    .main-body {
+        max-width: 1400px;
+    }
+}
