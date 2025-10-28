@@ -1,2 +1,3 @@
-- **Oct 2025:** Presented at IEEE DSAA 2025 (Birmingham, UK).  
-- **Mar 2025:** Joined RPTU Kaiserslautern–Landau as a Humboldt Research Fellow. 
+- **Oct 2025** Top Reviewer at NeurIPS 2025
+- **Oct 2025** Served as a Session Chair at IEEE DSAA 2025 (Birmingham, UK)
+- **Mar 2025** Joined RPTU Kaiserslautern–Landau as a Humboldt Research Fellow 
