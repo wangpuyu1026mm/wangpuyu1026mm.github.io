@@ -109,3 +109,28 @@ section .main-body{
     }
 }
 
+/* force show dynamic sections */
+.main-body {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    min-height: auto !important;
+    color: #000 !important;
+    background: transparent !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+/* also force black text specifically for our sections */
+#home-md,
+#news-md,
+#publications-md {
+    color: #000 !important;
+}
+
+#home-md a,
+#news-md a,
+#publications-md a {
+    color: #000 !important;
+    text-decoration: none;
+}
