@@ -188,3 +188,27 @@ section {
     margin-top: 1.5rem !important;
     margin-bottom: 1.5rem !important;
 }
+/* ===== 紧凑化模块间距（强力版） ===== */
+#home, #news, #publications {
+  margin-top: .75rem !important;
+  margin-bottom: .75rem !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+/* 渐变背景这些块若自带大 padding，一并压小 */
+.bg-gradient-primary-to-secondary-light,
+.bg-gradient-primary-to-secondary-gray {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+/* 头部标题本身的行高/外边距往下调，避免占太多竖向空间 */
+section header { margin: 0 !important; padding: 0 !important; }
+section header h2 {
+  margin: 0 0 .75rem 0 !important;
+  line-height: 1.25 !important;   /* 之前 4rem 太高了 */
+}
+
+/* 正文容器别额外加外边距 */
+section .main-body { margin: 0 !important; }
