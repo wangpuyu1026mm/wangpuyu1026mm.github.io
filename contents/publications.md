@@ -1,12 +1,12 @@
 <h2>Selected Publications Last 5 Years</h2><p>
   
-[1] <strong>Puyu Wang</strong>,YunwenLei, Di Wang, YimingYingandDing-XuanZhou.“GeneralizationGuarantees of Gradient Descent for Shallow Neural Networks.” <strong>Neural Computation</strong>.  ,37(2):344-402, 2025.
+[1] <strong>Puyu Wang</strong>, YunwenLei, Di Wang, Yiming Ying and Ding-XuanZhou.“GeneralizationGuarantees of Gradient Descent for Shallow Neural Networks.” <strong>Neural Computation</strong>  ,37(2):344-402, 2025.
 
-[2]<strong>Puyu Wang</strong>,  Yunwen Lei, Yiming Ying and Hai Zhang. “Differentially Private SGDwith Non-smooth Losses.”  <strong>Applied and Computational Harmonic Analysis</strong>.  , 56:306-336,2022. 
+[2] <strong>Puyu Wang</strong>,  Yunwen Lei, Yiming Ying and Hai Zhang. “Differentially Private SGDwith Non-smooth Losses.”  <strong>Applied and Computational Harmonic Analysis</strong>.  , 56:306-336,2022. 
 
-[3]<strong>Puyu Wang</strong>,  Yunwen Lei, Yiming Ying and Ding-Xuan Zhou.“Stability and Generalization for Markov Chain Stochastic Gradient Methods.” <strong>In 36th Advances in NeuralInformation Processing Systems (NeurIPS) </strong>,2022
+[3] <strong>Puyu Wang</strong>,  Yunwen Lei, Yiming Ying and Ding-Xuan Zhou.“Stability and Generalization for Markov Chain Stochastic Gradient Methods.” <strong>In 36th Advances in NeuralInformation Processing Systems (NeurIPS) </strong>,2022
 
-[4]<strong>Puyu Wang</strong>,  Liang Wu and Yunwen Lei. “Stability and Generalization for RandomizedCoordinate Descent.” <strong>In 30th International Joint Conference on Artificial Intelligence(IJCAI)</strong>, 2021. 
+[4] <strong>Puyu Wang</strong>,  Liang Wu and Yunwen Lei. “Stability and Generalization for RandomizedCoordinate Descent.” <strong>In 30th International Joint Conference on Artificial Intelligence(IJCAI)</strong>, 2021. 
 </p>
 
 <h2>Preprint</h2><p>
