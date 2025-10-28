@@ -151,17 +151,26 @@ html {
     text-justify: inter-word;
 }
 
+/* Publications section — slightly larger and clearer */
+#publications-md {
+    font-size: 1rem;         /* 原来是 0.9rem，稍微放大一点 */
+    line-height: 1.55;       /* 稍微增加行距，让段落更通透 */
+    color: #000;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 #publications-md p {
-    font-size: 0.9rem;
-    line-height: 1.4;
+    font-size: 1rem;
+    line-height: 1.55;
     margin-bottom: 1rem;
     text-align: justify;
     text-justify: inter-word;
 }
 
 #publications-md h2 {
-    font-size: 1.05rem;       /* 小号 section 标题 */
-    line-height: 1.3;
+    font-size: 1.15rem;      /* 小标题也一起放大一点 */
+    line-height: 1.4;
     font-weight: 600;
     margin-top: 1.5rem;
     margin-bottom: 0.75rem;
