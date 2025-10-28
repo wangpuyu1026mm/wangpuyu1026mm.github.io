@@ -97,7 +97,7 @@ section .main-body{
     position: relative;
     height: 0;
     top: -120px;              /* 原来 top 是动态的，这里直接固定稍微上移一点 */
-    right: -40px;            /* 往右移 40px，可按需要微调：20–60 都行 */
+    right: -20px;            /* 往右移 40px，可按需要微调：20–60 都行 */
     max-width: 55em;
     margin: 0;
     float: right;
