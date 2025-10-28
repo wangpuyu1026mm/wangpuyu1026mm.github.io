@@ -8,16 +8,3 @@ I am currently an Alexander von Humboldt Research Fellow in the Machine Learning
 
 My research interests lie in statistical learning theory and machine learning, with an emphasis on deep learning theory, optimization, and differential privacy. I am particularly interested in both the theoretical foundations and practical applications of modern machine learning, especially in the development and analysis of machine learning algorithms.
 
-## Academic Services
-
-- **Conference Reviewer**
-
-  AAAI (2025),  AISTATS (2023-2026),  ICLR (2024-2025), ICML (2022-2025),  IJCAI (2021-2023),  NeurIPS (2022-2025),  ECML PKDD (2023), ECAI (2025)
-
-- **Journal Reviewer**
-
-  TPAMI, TNNLS, TKDE, TII, TSP, TMLR,  NEUCOM, TCS, MFC
-
-- **Session Chair**
-
-  EcoSta 2024, IEEE DSAA 2025
