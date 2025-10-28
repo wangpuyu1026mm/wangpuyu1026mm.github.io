@@ -158,27 +158,30 @@ html {
 
 
 
-/* Publications section — slightly larger and clearer */
+/* Publications section — larger and clearer */
 #publications-md {
-    font-size: 1rem;         /* 原来是 0.9rem，稍微放大一点 */
-    line-height: 1.55;       /* 稍微增加行距，让段落更通透 */
+    font-size: 1.15rem;       /* 原来 1rem → 稍微放大一点 */
+    line-height: 1.65;        /* 行距略放宽，文字更通透 */
     color: #000;
     text-align: justify;
     text-justify: inter-word;
+    max-width: 1300px;        /* 避免文字行太长 */
+    margin: 0 auto;           /* 保持居中对齐 */
 }
 
 #publications-md p {
-    font-size: 1rem;
-    line-height: 1.55;
+    font-size: 1.15rem;
+    line-height: 1.65;
     margin-bottom: 1rem;
     text-align: justify;
     text-justify: inter-word;
 }
 
 #publications-md h2 {
-    font-size: 1.15rem;      /* 小标题也一起放大一点 */
-    line-height: 1.4;
+    font-size: 1.3rem;        /* 小标题一起放大一点 */
+    line-height: 1.45;
     font-weight: 600;
     margin-top: 1.5rem;
     margin-bottom: 0.75rem;
 }
+
