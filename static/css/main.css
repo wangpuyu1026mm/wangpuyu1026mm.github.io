@@ -151,7 +151,7 @@ html {
 
 /* Publications section — larger and clearer */
 #publications-md {
-    font-size: 1.15rem;       /* 原来 1rem → 稍微放大一点 */
+    font-size: 1.25rem;       /* 原来 1rem → 稍微放大一点 */
     line-height: 1.65;        /* 行距略放宽，文字更通透 */
     color: #000;
     text-align: justify;
