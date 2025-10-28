@@ -18,7 +18,7 @@
     position: relative;
     padding: 10rem 0;
     height: 25rem;
-    background: linear-gradient(120deg, #001a33, #004080); /* 深蓝 → 亮蓝 渐变 */
+    background: linear-gradient(120deg, #001a33, #004080) !important; /* 深蓝 → 亮蓝 渐变 */
     background-position: center;
     background-size: cover;
     color: #fff;  /* 保证标题白色清晰 */
