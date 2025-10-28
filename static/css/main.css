@@ -178,8 +178,8 @@ html {
 
 /* ===== 减小 section 间距，使各模块衔接更紧凑 ===== */
 section {
-    margin-top: 1.5rem;    /* 原来可能是 5rem 左右，现在缩小 */
-    margin-bottom: 1.5rem;
+    margin-top: 1.5rem !important;    /* 原来可能是 5rem 左右，现在缩小 */
+    margin-bottom: 1.5rem !important;
 }
 
 /* 如果使用了自定义类 mt5 / md5，可以同时覆盖它们 */
