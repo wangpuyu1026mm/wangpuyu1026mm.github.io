@@ -17,18 +17,32 @@
 .top-section {
     position: relative;
     padding: 10rem 0;
+    height: 25rem;
+    background: linear-gradient(120deg, #001a33, #004080); /* 深蓝 → 亮蓝 渐变 */
     background-position: center;
     background-size: cover;
-    height: 25rem;
+    color: #fff;  /* 保证标题白色清晰 */
 }
 
 .top-section h2 {
     font-weight: 400;
+    color: #fff;  /* 白色标题文字 */
 }
 
 .top-section .top-section-content {
     position: relative;
     z-index: 1;
+}
+
+/* 可选的透明遮罩（加深渐变，增强层次） */
+.top-section:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.25); /* 想更暗改成 0.35～0.5 */
 }
 
 .top-section:before {
