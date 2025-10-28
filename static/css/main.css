@@ -142,14 +142,7 @@ html {
     line-height: 1.4;
 }
 
-/* smaller font just for Publications section */
-#publications-md {
-    font-size: 0.9rem;        /* 比默认正文更小，大约 90% 大小 */
-    line-height: 1.4;         /* 行距稍微紧一点，看起来更像论文列表 */
-    color: #000;
-    text-align: justify;
-    text-justify: inter-word;
-}
+
 
 /* Publications section — slightly larger and clearer */
 #publications-md {
