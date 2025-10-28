@@ -176,3 +176,15 @@ html {
     margin-bottom: 0.75rem;
 }
 
+/* ===== 减小 section 间距，使各模块衔接更紧凑 ===== */
+section {
+    margin-top: 2rem;    /* 原来可能是 5rem 左右，现在缩小 */
+    margin-bottom: 2rem;
+}
+
+/* 如果使用了自定义类 mt5 / md5，可以同时覆盖它们 */
+.mt5,
+.md5 {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
