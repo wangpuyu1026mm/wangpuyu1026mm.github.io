@@ -1,6 +1,6 @@
 <h2>Selected Publications Last 5 Years</h2><p>
   
-[1] <strong>Puyu Wang</strong>,YunwenLei, DiWang, YimingYingandDing-XuanZhou.“GeneralizationGuarantees of Gradient Descent for Shallow Neural Networks.” <strong>Neural Computation</strong>.  ,37(2):344-402, 2025.
+[1] <strong>Puyu Wang</strong>,YunwenLei, Di Wang, YimingYingandDing-XuanZhou.“GeneralizationGuarantees of Gradient Descent for Shallow Neural Networks.” <strong>Neural Computation</strong>.  ,37(2):344-402, 2025.
 
 [2]<strong>Puyu Wang</strong>,  Yunwen Lei, Yiming Ying and Hai Zhang. “Differentially Private SGDwith Non-smooth Losses.”  <strong>Applied and Computational Harmonic Analysis</strong>.  , 56:306-336,2022. 
 
