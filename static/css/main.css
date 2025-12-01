@@ -163,7 +163,7 @@ html {
 }
 
 #publications-md p {
-    font-size: 1.0rem;
+    font-size: 1.1rem;
     line-height: 1.65;
     margin-bottom: 1rem;
     text-align: justify;
@@ -217,7 +217,7 @@ section .main-body { margin: 0 !important; }
 
 /* === NEWS section text smaller === */
 #news-md {
-    font-size: 1.0rem !important;   /* 你想多小改这里 */
+    font-size: 1.1rem !important;   /* 你想多小改这里 */
     line-height: 1.55 !important;
 }
 
