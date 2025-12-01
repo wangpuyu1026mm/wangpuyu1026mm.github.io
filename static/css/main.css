@@ -214,3 +214,14 @@ section header h2 {
 
 /* 正文容器别额外加外边距 */
 section .main-body { margin: 0 !important; }
+
+/* === NEWS section text smaller === */
+#news-md {
+    font-size: 1.0rem !important;   /* 你想多小改这里 */
+    line-height: 1.55 !important;
+}
+
+#news-md li {
+    font-size: 1.0rem !important;
+    line-height: 1.55 !important;
+}
